@@ -1,0 +1,95 @@
+@@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,800');
+
+html, button {
+  font-family: 'Open Sans', sans-serif;
+}
+
+header {
+  background-color: gray;
+  color: white;
+}
+
+.vermelha {
+  background-color: #CF2227;
+  color: white;
+}
+
+H1 {
+  font-size: 24px;
+  font-weight: lighter;
+}
+
+header {
+  background-image: url("fundo.jpg");
+  font-weight: lighter;
+  height: 600px;
+  background-position: cover;
+  color: white;
+}
+
+nav {
+  margin-bottom: 200px;
+}
+
+.branca {
+  color: #CF2227;
+}
+
+.data {
+  font-size: 64px;
+}
+.chamada {
+  font-size: 24px;
+  font-weight: lighter;
+}
+
+footer {
+  background-color: #CF2227;
+}
+
+button {
+  background-color: transparent;
+  color: white;
+  font-weight: bold;
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 18px;
+}
+.euvou {
+  color: red;
+}
+
+li {
+  display: inline;
+  padding: 10px;
+  font-weight: bold;
+}
+
+img {
+  display: block;
+  max-width: 1000px;
+  width: 100%;
+  margin: auto;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 48px;
+}
+
+header, section, footer {
+  padding: 20px 20px 70px 20px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+body, p {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
